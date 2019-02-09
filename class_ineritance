@@ -1,0 +1,14 @@
+class Animal():
+    def __init__(self, name, age)
+        self.ani_name = name
+        self.ani_age = age
+       
+    def get_ani_info(self)
+        return "My name is {} and I am {} years old".format(slef.ani_name, ani_age)
+        
+        
+class Domestic(Animal):
+    def __init__(self,
+    
+    
+        
